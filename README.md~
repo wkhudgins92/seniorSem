@@ -19,5 +19,3 @@ Note: MPICH2 is no longer supported on Windows.
 
 I used other code to generate matrices and check the proper solutions, but that
 code is not included here.
-
-Most header comments are incorrect.
